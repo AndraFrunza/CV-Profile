@@ -1,0 +1,88 @@
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    background-image: url("gradient5.jpg");
+    background-size: cover;
+    background-position: center;
+    margin:auto;
+    padding-left: 10px;
+}
+
+th{
+    color:rgb(148, 13, 92);
+    text-align: left;
+    padding-top: 10px;
+    padding-right: 5px;
+    padding-bottom: 10px;
+}
+td{
+    padding-top: 7px;
+    padding-left: 5px;
+}
+
+hr{
+    border-top: 1px solid rgb(148, 13, 92);
+}
+
+ .tabelmic tr, .tabelmic td{ 
+    border:1px solid rgb(148, 13, 92);
+    border-collapse: collapse;
+    text-align: center;
+    padding: 5px;
+    /* width:150px; */
+}
+
+.box{
+    position:relative;
+    background: rgba(255,255,255,.2);
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.377);
+    margin-bottom: 7px;
+}
+
+/*.center{
+    margin-left: auto;
+    margin-right: auto;
+}*/
+
+.alignfirsttabel{
+    /*margin-top: 5px;
+    margin-left: 165px;
+    padding-right: 446px;*/
+    line-height: 25px; 
+}
+
+#centertext{
+    text-align: center;
+    margin-top: 10px;
+    padding-bottom: 10px;
+}
+
+#drivelicense{
+    color:rgb(148, 13, 92);
+}
+
+i{
+    color:rgb(148, 13, 92);
+}
+
+a{
+    text-decoration: none;
+}
+
+a:link{
+    color:rgb(148, 13, 92);
+}
+
+a:visited{
+    color:#1e1ebb;
+}
+
+a:hover{
+    font-size: 120%;
+}
+
+a:active{
+    cursor:progress;
+}
+
